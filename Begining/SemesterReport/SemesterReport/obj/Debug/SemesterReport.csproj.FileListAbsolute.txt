@@ -1,0 +1,7 @@
+F:\Study Materials\C#\SemesterReport\SemesterReport\bin\Debug\SemesterReport.exe.config
+F:\Study Materials\C#\SemesterReport\SemesterReport\bin\Debug\SemesterReport.exe
+F:\Study Materials\C#\SemesterReport\SemesterReport\bin\Debug\SemesterReport.pdb
+F:\Study Materials\C#\SemesterReport\SemesterReport\obj\Debug\SemesterReport.csproj.AssemblyReference.cache
+F:\Study Materials\C#\SemesterReport\SemesterReport\obj\Debug\SemesterReport.csproj.CoreCompileInputs.cache
+F:\Study Materials\C#\SemesterReport\SemesterReport\obj\Debug\SemesterReport.exe
+F:\Study Materials\C#\SemesterReport\SemesterReport\obj\Debug\SemesterReport.pdb
